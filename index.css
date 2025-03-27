@@ -1,0 +1,17 @@
+#Bing{
+    color: firebrick;
+    text-decoration-line: none;
+}
+
+.Paragraph{
+   font-weight: bolder;
+}
+
+body{
+    background-color: beige;
+}
+
+img{
+    border: 3px solid black;
+    margin: 1px; ;
+}
